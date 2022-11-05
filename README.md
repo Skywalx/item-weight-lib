@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/gwI0AqH.png" alt="Skywalx Logo"/>
+<img src="https://i.imgur.com/gwI0AqH.png" alt="Skywalx Logo" width="350" height="350"/>
 </p>
 
 <p align="center">
