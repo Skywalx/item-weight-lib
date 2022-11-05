@@ -9,7 +9,11 @@
 <a href="https://github.com/Skywalx/item-weight-lib/actions" target="_blank">
     <img src="https://github.com/Skywalx/item-weight-lib/actions/workflows/gradle.yml/badge.svg" alt="Build"/>
 </a>
+<a href="https://github.com/Skywalx/item-weight-lib/blob/main/LICENSE" target="_blank">
+    <img src="https://img.shields.io/github/license/Skywalx/item-weight-lib" alt="License"/>
+</a>
 </p>
+
 
 ---
 
