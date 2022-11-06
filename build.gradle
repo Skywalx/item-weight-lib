@@ -8,12 +8,14 @@ repositories {
 }
 
 apply plugin: 'maven-publish'
+group = 'com.skywalx'
+
 publishing {
     publications {
         maven(MavenPublication) {
             groupId 'com.skywalx'
             artifactId 'item-weight-lib'
-            version '1.0.0'
+            version '1.0.1'
 
             from components.java
         }
