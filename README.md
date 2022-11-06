@@ -14,6 +14,35 @@
 </a>
 </p>
 
+## Installation
+<h3>Maven</h3>
+
+```
+<repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+</repository>
+```
+
+```
+<dependency>
+    <groupId>com.github.Skywalx</groupId>
+    <artifactId>item-weight-lib</artifactId>
+    <version>version</version>
+</dependency>
+```
+
+<h3>Gradle</h3>
+
+```
+repositories {
+    maven { url = 'https://jitpack.io' } 
+}
+
+dependencies {
+    implementation 'com.github.Skywalx:item-weight-lib:version'
+}
+```
 
 ---
 
