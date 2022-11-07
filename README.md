@@ -50,7 +50,7 @@
 
 ### Gradle
 
-```yaml
+```
 repositories {
   maven { url = 'https://jitpack.io' }
 }
