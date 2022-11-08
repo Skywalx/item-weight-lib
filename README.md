@@ -44,7 +44,7 @@
 <dependency>
     <groupId>com.github.Skywalx</groupId>
     <artifactId>item-weight-lib</artifactId>
-    <version>version</version>
+    <version>latest</version>
 </dependency>
 ```
 
@@ -56,7 +56,7 @@ repositories {
 }
 
   dependencies {
-  implementation 'com.github.Skywalx:item-weight-lib:version'
+  implementation 'com.github.Skywalx:item-weight-lib:latest'
 }
 ```
 
