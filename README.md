@@ -12,19 +12,35 @@
 <a href="https://github.com/Skywalx/item-weight-lib/blob/main/LICENSE" target="_blank">
     <img src="https://img.shields.io/github/license/Skywalx/item-weight-lib" alt="License"/>
 </a>
+<a href="https://jitpack.io/#Skywalx/item-weight-lib/">
+<img alt="JitPack" src="https://img.shields.io/jitpack/version/com.github.Skywalx/item-weight-lib">
+</a>
 </p>
 
-## Installation
-<h3>Maven</h3>
+---
 
-```
+**Website**: https://www.skywalx.com
+
+**Discord**: https://discord.skywalx.com/
+
+**Business E-mail**: business@skywalx.com
+
+---
+
+## :electric_plug: Installation
+
+### Maven
+
+```xml
+
 <repository>
     <id>jitpack.io</id>
     <url>https://jitpack.io</url>
 </repository>
 ```
 
-```
+```xml
+
 <dependency>
     <groupId>com.github.Skywalx</groupId>
     <artifactId>item-weight-lib</artifactId>
@@ -32,20 +48,15 @@
 </dependency>
 ```
 
-<h3>Gradle</h3>
+### Gradle
 
 ```
 repositories {
-    maven { url = 'https://jitpack.io' } 
+  maven { url = 'https://jitpack.io' }
 }
 
-dependencies {
-    implementation 'com.github.Skywalx:item-weight-lib:version'
+  dependencies {
+  implementation 'com.github.Skywalx:item-weight-lib:version'
 }
 ```
 
----
-
-**Discord**: https://discord.skywalx.com
-
----
